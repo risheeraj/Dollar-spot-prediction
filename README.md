@@ -25,7 +25,7 @@ GroupKFold cross-validation.
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/dollar-spot-prediction.git
+git clone https://github.com/risheeraj/dollar-spot-prediction.git
 cd dollar-spot-prediction
 ```
 
